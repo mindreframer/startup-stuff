@@ -1,11 +1,7 @@
 ## Repos about startup-y stuff
 
 <!-- PROJECTS_LIST_START -->
-    coderoshi/dds:
-      Sample code for Distributed Datastructures talk
-       14 commits, last change: 2013-02-23 12:29:44, 22 stars, 4 forks
-
-    russolsen/design_patterns_in_ruby_code:
-      The code from Russ Olsen's book Design Patterns in Ruby (http://goo.gl/OKPQw)
-       6 commits, last change: 2013-06-23 06:25:05, 159 stars, 17 forks
+    subelsky/startup_playbook:
+      My presenting.vim "slide deck" of distilled startup wisdom
+       3 commits, last change: 2013-07-19 10:49:44, 0 stars, 0 forks
 <!-- PROJECTS_LIST_END -->
